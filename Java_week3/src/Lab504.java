@@ -8,7 +8,7 @@ public class Lab504 {
 		System.out.print("Plesae enter your name, Seperate by a space. \n :");
 		String fullName = scanner.nextLine();
 		
-		System.out.println(abbreviatName(fullName) + fullName.substring(0, fullName.indexOf(" ")));
+		System.out.println(abbreviatName(fullName) + fullName.substring(0 , 1).toUpperCase() + fullName.substring(1, fullName.indexOf(" ")));
 	}
 	
 	/*
