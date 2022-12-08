@@ -1,4 +1,4 @@
 StudentID: 2213110592 
 Fullname(in English): Phakin Kussayopsuwan 
 AKA : Kim
-ClassDetail: String Methods and Defined Met
+ClassDetail: Repeat Lab Sheet 1-4
