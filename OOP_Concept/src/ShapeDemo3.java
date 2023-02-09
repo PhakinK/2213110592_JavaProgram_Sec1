@@ -8,7 +8,7 @@ public class ShapeDemo3 {
 		
 		Scanner scan = new Scanner(System.in);
 		Cylinder[] cylinder = new Cylinder[5];
-
+	
 		for (int i = 0; i < cylinder.length; i++) {
 			
 			double radius = Double.parseDouble(JOptionPane.showInputDialog("Input radius " + (i+1) + ":"));
