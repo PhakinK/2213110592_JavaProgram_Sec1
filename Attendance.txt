@@ -1,4 +1,4 @@
 StudentID: 2213110592 
 Fullname(in English): Phakin Kussayopsuwan 
 AKA : Kim
-ClassDetail: Inheritance and  Polymor
+ClassDetail: Abstract and Interface
